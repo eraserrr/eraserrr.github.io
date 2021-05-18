@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TURN ON THE SWITCH</title>
+    <description></description>
+    <link>//</link>
+    <atom:link href="//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 19 May 2021 01:25:46 +0900</pubDate>
+    <lastBuildDate>Wed, 19 May 2021 01:25:46 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>입사 전까지 준비할 것들</title>
+        <description>&lt;h4 id=&quot;입사-전까지-해야-할-것&quot;&gt;입사 전까지 해야 할 것&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;자바 참고서 이용해서 공부하기&lt;/li&gt;
+  &lt;li&gt;스프링 완강&lt;/li&gt;
+  &lt;li&gt;RDB 공부&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 19 May 2021 00:00:00 +0900</pubDate>
+        <link>//daily/2.html</link>
+        <guid isPermaLink="true">//daily/2.html</guid>
+        
+        <category>githubpages</category>
+        
+        <category>github</category>
+        
+        <category>jekyll</category>
+        
+        
+        <category>Daily</category>
+        
+      </item>
+    
+      <item>
+        <title>First Post</title>
+        <description>&lt;h4 id=&quot;2021517-첫-포스팅이다&quot;&gt;2021/5/17 첫 포스팅이다&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;
+열심히 해야징
+&lt;br /&gt;
+이상&lt;/p&gt;
+</description>
+        <pubDate>Mon, 17 May 2021 00:00:00 +0900</pubDate>
+        <link>//daily/test.html</link>
+        <guid isPermaLink="true">//daily/test.html</guid>
+        
+        <category>githubpages</category>
+        
+        <category>github</category>
+        
+        <category>jekyll</category>
+        
+        
+        <category>Daily</category>
+        
+      </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,10 @@
+title : TURN ON THE SWITCH
+description: 
+
+markdown: kramdown
+highlighter: rouge
+logo: false
+paginate: 15
+baseurl: /
+plugins: [jekyll-gist, jekyll-paginate]
+permalink: /:categories/:title.html
