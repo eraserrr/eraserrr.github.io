@@ -27,7 +27,7 @@
         <div class="meta">
             <span class="date">{{ post.date | date_to_string }} 
             {% if post.category %} 
-                in {{ post.categories }}
+                in <i>{{ post.categories }}</i>
             {% endif %} 
             </span>
         </div>
@@ -40,10 +40,10 @@
         <a href="{{ post.url }}index.html#disqus_thread" data-disqus-identifier="{{post.url}}">
             0 Comments
         </a>
-        {% if post.author %}
+        <!-- {% if post.author %}
         <div class="right floated author">
             <img class="ui avatar image" src="/assets/img/profile.jpg"> {{ post.author }}
         </div>
-        {% endif %}
+        {% endif %} -->
     </div>
 </div>
