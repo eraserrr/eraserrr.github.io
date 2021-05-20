@@ -142,3 +142,8 @@ main {
     margin-top: 3rem;
     margin-bottom: 3rem;
 }
+
+a.header img{
+    height: 12rem;
+    width: 100%;
+}
