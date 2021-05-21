@@ -74,6 +74,10 @@ header {
     display: block;
 }
 
+.today {
+    max-width: unset;
+}
+
 /* footer */
 
 footer {
@@ -136,11 +140,17 @@ main {
 .post-container {
     font-family: "Open Sans", sans-serif;
     font-size: 1.2rem;
+    line-height: 1.7rem;
+    margin-bottom: 10%;
 }
 
 .post-title {
     margin-top: 3rem;
     margin-bottom: 3rem;
+}
+
+.post-content {
+    padding: 7%;
 }
 
 a.header img{

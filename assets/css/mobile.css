@@ -5,7 +5,7 @@
 }
 
 
-@media all and (max-width: 600px) {
+@media all and (max-width: 670px) {
     .right.menu {
         display: none !important;
     }
@@ -20,5 +20,9 @@
 
     main {
         max-width: 95%;
+    }
+
+    .post-container {
+        font-size: small;
     }
 }
