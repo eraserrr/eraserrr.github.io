@@ -157,3 +157,10 @@ a.header img{
     height: 12rem;
     width: 100%;
 }
+
+blockquote {
+    border-left: 10px solid;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 20px;
+}
